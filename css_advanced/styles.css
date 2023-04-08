@@ -4,7 +4,7 @@ body {
 }
 
 
-/* HEADER SECTION */
+/* Header sec */
 
 .headerdiv {
     background-color: transparent;
@@ -34,7 +34,7 @@ body {
     background-color: #071629;
 }
 
-/* PRESENTATION SECTION: TITLE AND REGISTER*/
+/* Presentation sec, title and register*/
 
 .firstsection {
     background-image: linear-gradient(to top, #071629, transparent);
@@ -74,7 +74,7 @@ body {
 }
 
 
-/*PRESENTATION SECTION: AUTHORS*/
+/*Presentation sec, Authors*/
 
 .sectitle {
     display: flex;
@@ -134,7 +134,7 @@ body {
 }
 
 
-/* SECTION TWO "QUOTE"*/
+/*Quote*/
 
 
 .quotesection {
@@ -169,7 +169,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/* SECTION OF VIDEOS*/
+/*Vids*/
 
 .videosection {
     background-color: white;
@@ -252,7 +252,7 @@ body {
     background-position: center;
 }
 
-/*MEMBERSHIP SECTION */
+/*Memberships*/
 
 .membershipsection {
     background-color: #071629;
@@ -312,7 +312,7 @@ body {
     justify-content: center;
 }
 
-/* FAQ SECTION */
+/*FAQ*/
 
 .faqsection {
     background-color: white;
@@ -348,7 +348,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/* FOOTER SECTION */
+/*Footer*/
 
 footer {
     background-color: #071629;
